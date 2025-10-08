@@ -128,7 +128,7 @@ we need two servers for this process:
 
 sudo  apt install maven
 
-```
+
 ![](Screenshot%202025-10-08%20092825.png)
 
 -----
